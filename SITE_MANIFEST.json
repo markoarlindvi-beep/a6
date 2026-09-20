@@ -1,0 +1,207 @@
+{
+  "domain": "primaveranight",
+  "niche": "Dinner",
+  "design_concept": "Warm Sepia & Roasted Timber Atelier",
+  "archetype_id": "sepia_timber",
+  "pages": [
+    "index.html",
+    "about.html",
+    "services.html",
+    "contact.html",
+    "faq.html",
+    "privacy-policy.html",
+    "terms-and-conditions.html",
+    "disclaimer.html",
+    "cookie-policy.html"
+  ],
+  "images": [
+    {
+      "index": 1,
+      "filename": "primaveranight_asset_1.jpg",
+      "size_kb": 117.92,
+      "md5": "e869a824cf810c947996c901382944cd",
+      "description": "02024 1605 polish platter dinner",
+      "page": "index.html",
+      "section": "Hero Masthead"
+    },
+    {
+      "index": 2,
+      "filename": "primaveranight_asset_2.jpg",
+      "size_kb": 324.42,
+      "md5": "c743cf475cbd843197cf4bb8405a18a8",
+      "description": "a brazilian family in rio de janeir",
+      "page": "index.html",
+      "section": "Signature Showcase I"
+    },
+    {
+      "index": 3,
+      "filename": "primaveranight_asset_3.jpg",
+      "size_kb": 123.19,
+      "md5": "ae51bc3350859a3ca07898c83d8825fd",
+      "description": "bbq dinner kizingo bbq 2025 01",
+      "page": "index.html",
+      "section": "Signature Showcase II"
+    },
+    {
+      "index": 4,
+      "filename": "primaveranight_asset_4.jpg",
+      "size_kb": 106.22,
+      "md5": "4d030c7eb2682f0a3aabc792ed425257",
+      "description": "bakst uhzin1902",
+      "page": "index.html",
+      "section": "Signature Showcase III"
+    },
+    {
+      "index": 5,
+      "filename": "primaveranight_asset_5.jpg",
+      "size_kb": 209.07,
+      "md5": "0cf414bd61fd43fbae9b0a43765afe79",
+      "description": "cinio cangen gwynedd o r national",
+      "page": "index.html",
+      "section": "Curated Collection I"
+    },
+    {
+      "index": 6,
+      "filename": "primaveranight_asset_6.jpg",
+      "size_kb": 171.81,
+      "md5": "78e1501e80f9a27bfd080af0123e3458",
+      "description": "cinio cangen gwynedd o r national",
+      "page": "index.html",
+      "section": "Curated Collection II"
+    },
+    {
+      "index": 7,
+      "filename": "primaveranight_asset_7.jpg",
+      "size_kb": 230.25,
+      "md5": "52e80f3ac9b5406694e680b1303823a9",
+      "description": "corn hotdog dinner",
+      "page": "index.html",
+      "section": "Heritage Story I"
+    },
+    {
+      "index": 8,
+      "filename": "primaveranight_asset_8.jpg",
+      "size_kb": 128.59,
+      "md5": "5549f021ec27b35c38a6161cf9289e4c",
+      "description": "dinner banana leaf 2023 01",
+      "page": "index.html",
+      "section": "Heritage Story II"
+    },
+    {
+      "index": 9,
+      "filename": "primaveranight_asset_9.jpg",
+      "size_kb": 252.37,
+      "md5": "35affc553964a7583e8aa2c8562bd85e",
+      "description": "dinner eastern burger restaurant",
+      "page": "about.html",
+      "section": "Heritage Hero"
+    },
+    {
+      "index": 10,
+      "filename": "primaveranight_asset_10.jpg",
+      "size_kb": 109.29,
+      "md5": "39a4ac09aa6f3cedf85518ce76e39cb8",
+      "description": "dinner whitechapelrd london 2022042",
+      "page": "about.html",
+      "section": "Principles Pillar I"
+    },
+    {
+      "index": 11,
+      "filename": "primaveranight_asset_11.jpg",
+      "size_kb": 131.01,
+      "md5": "9ccb77a618183444cf882cf692468fbb",
+      "description": "dinner by l.bakst 1902 grm frame",
+      "page": "about.html",
+      "section": "Principles Pillar II"
+    },
+    {
+      "index": 12,
+      "filename": "primaveranight_asset_12.jpg",
+      "size_kb": 73.98,
+      "md5": "3b8ff20a514d5a487c65b96a348600f3",
+      "description": "dinner by l.bakst 1902 grm frame",
+      "page": "about.html",
+      "section": "Principles Pillar III"
+    },
+    {
+      "index": 13,
+      "filename": "primaveranight_asset_13.jpg",
+      "size_kb": 123.78,
+      "md5": "88ec0acc1871ad9e2e32cf1ef3f7277e",
+      "description": "dinner by l.bakst 1902 grm detai",
+      "page": "services.html",
+      "section": "Services Hero"
+    },
+    {
+      "index": 14,
+      "filename": "primaveranight_asset_14.jpg",
+      "size_kb": 136.89,
+      "md5": "c318751e197b8695a496e2ac0c0970ab",
+      "description": "dinner for eight",
+      "page": "services.html",
+      "section": "Specialty I"
+    },
+    {
+      "index": 15,
+      "filename": "primaveranight_asset_15.jpg",
+      "size_kb": 69.97,
+      "md5": "6be273715e188910dd48c95ab52674f8",
+      "description": "dinner set up at sunset in abuja n",
+      "page": "services.html",
+      "section": "Specialty II"
+    },
+    {
+      "index": 16,
+      "filename": "primaveranight_asset_16.jpg",
+      "size_kb": 112.06,
+      "md5": "df063de5e00c6f2eb9401e6a7d7699c7",
+      "description": "french omelette with tomato sauce a",
+      "page": "services.html",
+      "section": "Specialty III"
+    },
+    {
+      "index": 17,
+      "filename": "primaveranight_asset_17.jpg",
+      "size_kb": 124.41,
+      "md5": "5e3961ca271fe2e87e225295060ff0d3",
+      "description": "full meal thali",
+      "page": "services.html",
+      "section": "Specialty IV"
+    },
+    {
+      "index": 18,
+      "filename": "primaveranight_asset_18.jpg",
+      "size_kb": 291.38,
+      "md5": "b81e663a4bf4dfc14e44b59bcf4d7844",
+      "description": "porta westfalica inauguration dinne",
+      "page": "services.html",
+      "section": "Specialty V"
+    },
+    {
+      "index": 19,
+      "filename": "primaveranight_asset_19.jpg",
+      "size_kb": 116.53,
+      "md5": "602cf41d280c5ba53450168975f8838c",
+      "description": "slavica meeting dinner 2025",
+      "page": "contact.html",
+      "section": "Salon Consultation"
+    },
+    {
+      "index": 20,
+      "filename": "primaveranight_asset_20.jpg",
+      "size_kb": 274.4,
+      "md5": "f284612d9d72e7a244ce457abae4db0a",
+      "description": "stiopa kotlet schabowy",
+      "page": "faq.html",
+      "section": "Collector FAQ"
+    }
+  ],
+  "seo": {
+    "google_tag": "G-0LY0HY7L01",
+    "address": "181 Mercer Street, New York, NY 10012, United States",
+    "telephone": "+1-888-777-5845",
+    "sitemap": "https://primaveranight.com/sitemap.xml",
+    "robots": "https://primaveranight.com/robots.txt"
+  },
+  "validation_status": "PASSED_100_PERCENT"
+}
